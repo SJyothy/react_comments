@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_comments/static/css/main.3b050c38.css",
+    "main.js": "/react_comments/static/js/main.a88baa6e.js",
+    "index.html": "/react_comments/index.html",
+    "main.3b050c38.css.map": "/react_comments/static/css/main.3b050c38.css.map",
+    "main.a88baa6e.js.map": "/react_comments/static/js/main.a88baa6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b050c38.css",
+    "static/js/main.a88baa6e.js"
+  ]
+}
